@@ -12,9 +12,9 @@
   <packaging>pom</packaging>
 
   <modules>
+    <module>Base-Domain</module>
     <module>Order-Service</module>
     <module>Stock-Service</module>
     <module>Email-Service</module>
-    <module>Base-Domain</module>
   </modules>
 </project>

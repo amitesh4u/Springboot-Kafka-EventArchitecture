@@ -7,6 +7,7 @@ The sample code implements an Event Driven architecture using Spring Boot and Ka
 
 
 ### Note:
+* Start Order, Email and Stock Services separately
 * Use _sample-requests.http_ for direct testing
 
 ## Intellij Plugin
