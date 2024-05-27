@@ -1,0 +1,2 @@
+### Place an Order
+POST http://localhost:8081/springboot-kafka-eventarch/order-service/api/v1/orders?name=Test&qty=1&price=1.5
